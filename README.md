@@ -1,7 +1,7 @@
 # ListHouse
 Class List House
  @author CHANUKA-HANSANI
- */
+ 
 class ListHouse implements Listable{
 
     public ListHouse(int lotNumber, String firstName, String lastName, int price, int squareFeet, int bedRooms) {
